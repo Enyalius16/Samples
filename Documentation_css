@@ -1,0 +1,88 @@
+body{
+   min-width: 290px;
+  color: black;
+  background-color: cyan;
+  font-family: 'Open Sans', Arial, sans-serif;
+  line-height: 1.5;
+}
+
+
+#navbar{
+  position: fixed;
+  height: 100%;
+  min-width: 300px;
+  width: 300px;
+  top: 0px;
+  left: 0px;
+  color: black;
+  background-color: #ff7f7f;
+  padding: 75px 0px;
+}
+header {
+  color: black;
+  margin: 10px;
+  text-align: center;
+  font-size: 1.8em;
+  font-weight: thin;
+}
+#main-doc header {
+  text-align: left;
+  margin: 0px;
+}
+#navbar ul {
+  height: 88%;
+  padding: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+#navbar li {
+  color: black;
+  border-top: 1px solid;
+  list-style: none;
+  position: relative;
+  width: 100%;
+}
+#navbar a {
+  display: block;
+  padding: 10px 30px;
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+#main-doc {
+  position: absolute;
+  margin-left: 310px;
+  padding: 20px;
+  margin-bottom: 110px;
+}
+
+
+@media only screen and (max-width: 800px)
+{
+  #navbar{
+    position: absolute;
+    max-height: 300px;
+    max-width: 300px;
+    width: 300px;
+    top: 0px;
+    left: 0px;
+    color: black;
+    background-color: #ff7f7f;
+    padding: 75px 0px;
+    z-index: 1;
+  }
+  #main-doc{
+    margin-left: 0px;
+    margin-top: 300px;
+    position: relative;
+  }
+  code {
+    margin-left: -20px;
+    width: 100%;
+    padding: 15px;
+    padding-left: 10px;
+    padding-right: 45px;
+    min-width: 233px;
+  }
+  
+}
