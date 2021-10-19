@@ -1,0 +1,74 @@
+<nav id = "navbar">
+  <header>Top Car Companies</header>
+  <ul>
+    <li><a class = "nav-link" href = "#Toyota">Toyota</a></li>
+    <li><a class = "nav-link" href = "#Volkswagen">Volkswagen</a></li>
+    <li><a class = "nav-link" href = "#General_Motors">General Motors</a></li>
+    <li><a class = "nav-link" href = "#Renault-Nissan">Renault-Nissan</a></li>
+    <li><a class = "nav-link" href = "#Hyundai">Hyundai</a></li>
+ </ul>
+</nav>
+<main id = "main-doc">
+  <section id = "Toyota" class = "main-section">
+    <header>Toyota</header>
+    <p><code>Hello Toyota!</code></p>
+    <p>Toyota Motors surprised everyone back in 2012 when they surpassed Volkswagen Group as the leading car manufacturer across the globe. It was a big thing to beat a company who owns at least 10 brands under its umbrella and Toyota has not looked back ever since. In 2015 alone, Toyota sold 10.15 million vehicles after setting a milestone of 10 million unit sales in 2014.</p>
+    <ul>
+      <li>Sales - 10.15 million</li>
+      <li>Country of origin - Japan</li>
+      <li>Founded In - 1937</li>
+    </ul>
+  </section>
+  <br>
+  <section id = "Volkswagen" class = "main-section">
+    <header>Volkswagen</header>
+    <p><code>Hello Volkswagen!</code></p>
+    <p>Volkswagen has been in the news for all the wrong reasons last year, yet they garnered good sales number and did 10.14 million numbers. If only they wouldn't have suffered the dieselgate scandal, VW could have been the number one player in the market. At least the sales figures from the first half of 2015 says so. VW group is a big group and own companies like Audi, Skoda, Bugatti and many other brands. VW enjoys good sales numbers in China, and being number 1 in the Chinese market, which happens to be the world's largest automobile market gives it a major push globally.</p>
+    <ul>
+      <li>Sales - 10.14 million</li>
+      <li>Country of origin - Germany</li>
+      <li>Founded In - 1937</li>
+    </ul>
+  </section>
+  <br>
+  <section id = "General_Motors" class = "main-section">
+    <header>General Motors</header>
+    <p><code>Hello GM!</code></p>
+    <p>General Motors used to be the largest automobile manufacturer with a wide range of sub-brands under its umbrella. Then came the great depression and GM declared bankruptcy, losing many brands to the downfall. But it didn't stop GM from bounce back and with 4 brands under umbrella, GM sold close to 10 million vehicles in 2015, 9.92 million to be precise. With Chevrolet as the major selling brand, GM holds a much repo in the American market.</p>
+    <ul>
+      <li>Sales - 9.92 million</li>
+      <li>Country of origin - U.S.A</li>
+      <li>Founded In - 1908</li>
+    </ul>
+  </section>
+  <br>
+  <section id = "Renault-Nissan" class = "main-section">
+    <header>Renault-Nissan</header>
+    <p><code>Hello Renault-Nissan!</code></p>
+    <p>First, it was Renault from France, then came the Nissan from Japan and then Carlos Ghosn merged them. Yes, the charismatic CEO took the Renault-Nissan Alliance to a whole new level and the companies who were struggling to make profits now sell 8.5 million vehicles per year. While Nissan holds a strong ground in the U.S, Renault is doing good in Western Europe. And with more and more innovative cars, we hope they will soon cross 9 million annual sales.</p>
+    <ul>
+      <li>Sales - 8.5 million</li>
+      <li>Country of origin - France</li>
+      <li>Founded In - 1899</li>
+    </ul>
+  </section>
+  <br>
+  <section id = "Hyundai" class = "main-section">
+    <header>Hyundai</header>
+    <p><code>Hello Hyundai!</code></p>
+    <p>The second largest automobile manufacturer from Asia is also the fifth largest in the world. The South Korean conglomerate which includes Kia and Hyundai Motors couldn't reach its target of 8.2 million unit sales in 2015, but did 8.01 million. India emerged as a strong market for the Hyundai where they enjoy the second spot after Maruti Suzuki, with a decent 25% market share. Hyundai also announced recently to spin-off the Genesis luxury division as a separate sub-brand.</p>
+    <ul>
+      <li>Sales - 8.01 million</li>
+      <li>Country of origin - South Korea</li>
+      <li>Founded In - 1967</li>
+    </ul>
+</section>
+
+
+    
+    
+    
+    
+</main>
+    
+    
